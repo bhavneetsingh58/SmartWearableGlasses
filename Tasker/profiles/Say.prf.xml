@@ -1,0 +1,131 @@
+<TaskerData sr="" dvi="1" tv="5.1">
+	<Profile sr="prof12" ve="2">
+		<cdate>1583855098709</cdate>
+		<edate>1583862074601</edate>
+		<id>12</id>
+		<mid0>13</mid0>
+		<nme>Say</nme>
+		<Event sr="con0" ve="2">
+			<code>1344888481</code>
+			<pri>0</pri>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.balda.notificationlistener.extra.ARRAY_PACKAGES>&lt;StringArrayList sr=""&gt;&lt;_arrlst_com.balda.notificationlistener.extra.ARRAY_PACKAGES0&gt;com.whatsapp&lt;/_arrlst_com.balda.notificationlistener.extra.ARRAY_PACKAGES0&gt;&lt;_arrlst_com.balda.notificationlistener.extra.ARRAY_PACKAGES1&gt;com.samsung.app.newtrim&lt;/_arrlst_com.balda.notificationlistener.extra.ARRAY_PACKAGES1&gt;&lt;/StringArrayList&gt;</com.balda.notificationlistener.extra.ARRAY_PACKAGES>
+					<com.balda.notificationlistener.extra.ARRAY_PACKAGES-type>java.util.ArrayList</com.balda.notificationlistener.extra.ARRAY_PACKAGES-type>
+					<com.balda.notificationlistener.extra.EVENT>0</com.balda.notificationlistener.extra.EVENT>
+					<com.balda.notificationlistener.extra.EVENT-type>java.lang.Integer</com.balda.notificationlistener.extra.EVENT-type>
+					<com.balda.notificationlistener.extra.INT_VERSION_CODE>118</com.balda.notificationlistener.extra.INT_VERSION_CODE>
+					<com.balda.notificationlistener.extra.INT_VERSION_CODE-type>java.lang.Integer</com.balda.notificationlistener.extra.INT_VERSION_CODE-type>
+					<com.balda.notificationlistener.extra.OPERATION>0</com.balda.notificationlistener.extra.OPERATION>
+					<com.balda.notificationlistener.extra.OPERATION-type>java.lang.Integer</com.balda.notificationlistener.extra.OPERATION-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Event: Posted Apps: WhatsApp,Video trimmer</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%nlapp
+Owner app name
+Owner app name of notification&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%nlkey
+Notification key
+Notification key&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%nlpersistent
+Persistent notification
+It can be true or false&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;%nlsmallicon
+Status bar icon URI
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES4&gt;%nlicon
+App icon
+App icon URI&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES4&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES5&gt;%nlcount
+Notification counter
+Number provided by the notifying app&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES5&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES6&gt;%nlevent
+Notification event
+Values: posted or removed&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES6&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES7&gt;%nltitle
+Notification title
+Notification title&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES7&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES8&gt;%nltext
+Notification text
+Notification text&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES8&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES9&gt;%nlbigtext
+Notification big text
+Notification text for big view notification&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES9&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES10&gt;%nlinfotext
+Notification info text
+Notification info text&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES10&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES11&gt;%nlsubtext
+Notification sub text
+Notification sub text&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES11&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES12&gt;%nlticker
+Notification ticker
+Notification title&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES12&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES13&gt;%nlsummary
+Notification summary
+Notification summary text&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES13&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES14&gt;%nllines()
+Notification lines array
+Notification inbox style lines array&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES14&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES15&gt;%nlbuttons()
+Notification buttons names
+Notification buttons names&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES15&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES16&gt;%nlpeople()
+Contact name or address
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES16&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES17&gt;%nlsubstname
+Substitution app name
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES17&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES18&gt;%nlchannelid
+Category identifier
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES18&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES19&gt;%nlpackage
+Package
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES19&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>com.balda.notificationlistener.extra.ARRAY_PACKAGES</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.balda.notificationlistener</Str>
+			<Str sr="arg2" ve="3">com.balda.notificationlistener.ui.EditConditionActivity</Str>
+		</Event>
+	</Profile>
+	<Task sr="task13">
+		<cdate>1583855106719</cdate>
+		<edate>1583862074601</edate>
+		<id>13</id>
+		<nme>ReadOut</nme>
+		<pri>7</pri>
+		<Action sr="act0" ve="7">
+			<code>571261004</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<com.giechaskiel.ilias.bluetoothserialfromtasker.BOOL_CRLF>false</com.giechaskiel.ilias.bluetoothserialfromtasker.BOOL_CRLF>
+					<com.giechaskiel.ilias.bluetoothserialfromtasker.BOOL_CRLF-type>java.lang.Boolean</com.giechaskiel.ilias.bluetoothserialfromtasker.BOOL_CRLF-type>
+					<com.giechaskiel.ilias.bluetoothserialfromtasker.BOOL_HEX>false</com.giechaskiel.ilias.bluetoothserialfromtasker.BOOL_HEX>
+					<com.giechaskiel.ilias.bluetoothserialfromtasker.BOOL_HEX-type>java.lang.Boolean</com.giechaskiel.ilias.bluetoothserialfromtasker.BOOL_HEX-type>
+					<com.giechaskiel.ilias.bluetoothserialfromtasker.STRING_MAC>54:B8:02:AE:C1:2E</com.giechaskiel.ilias.bluetoothserialfromtasker.STRING_MAC>
+					<com.giechaskiel.ilias.bluetoothserialfromtasker.STRING_MAC-type>java.lang.String</com.giechaskiel.ilias.bluetoothserialfromtasker.STRING_MAC-type>
+					<com.giechaskiel.ilias.bluetoothserialfromtasker.STRING_MSG>You have a %nlapp message from %nltitle saying %nltext</com.giechaskiel.ilias.bluetoothserialfromtasker.STRING_MSG>
+					<com.giechaskiel.ilias.bluetoothserialfromtasker.STRING_MSG-type>java.lang.String</com.giechaskiel.ilias.bluetoothserialfromtasker.STRING_MSG-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>54:B8:02:AE:C1:2E &lt;- You have a %nlapp message from %nlti...</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>com.giechaskiel.ilias.bluetoothserialfromtasker.STRING_MAC com.giechaskiel.ilias.bluetoothserialfromtasker.STRING_MSG</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.giechaskiel.ilias.bluetoothserialfromtasker</Str>
+			<Str sr="arg2" ve="3">com.giechaskiel.ilias.bluetoothserialfromtasker.PluginActivityPublic</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>559</code>
+			<Str sr="arg0" ve="3">You have a %nlapp message from %nltitle saying %nltext</Str>
+			<Str sr="arg1" ve="3">default:default</Str>
+			<Int sr="arg2" val="3"/>
+			<Int sr="arg3" val="5"/>
+			<Int sr="arg4" val="5"/>
+			<Int sr="arg5" val="1"/>
+			<Int sr="arg6" val="0"/>
+			<Int sr="arg7" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>294</code>
+			<Int sr="arg0" val="1"/>
+			<ConditionList sr="if">
+				<Condition sr="c0" ve="3">
+					<lhs>%BLUE</lhs>
+					<op>2</op>
+					<rhs>0</rhs>
+				</Condition>
+			</ConditionList>
+		</Action>
+		<Img sr="icn" ve="2">
+			<nme>hl_aaa_ext_link</nme>
+		</Img>
+	</Task>
+</TaskerData>
